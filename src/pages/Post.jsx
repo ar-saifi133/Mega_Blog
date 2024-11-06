@@ -31,8 +31,7 @@ export default function Post() {
             }
         });
     };
-    console.log(userData
-        )
+    
     return post ? (
         <div className="py-8">
             <Container>
